@@ -1,1 +1,1 @@
-# stats
+<a href="https://github.com/noahf2020"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=noahf2020&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" /> </a> <a href="https://github.com/noahf2020"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahf2020&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" /> </a>
